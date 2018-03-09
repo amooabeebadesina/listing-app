@@ -1,0 +1,12 @@
+{
+    "name": "abeeb/listing-app",
+    "description": "Sample listing app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Amoo Abeeb",
+            "email": "amooabeeb0@gmail.com"
+        }
+    ],
+    "require": {}
+}
