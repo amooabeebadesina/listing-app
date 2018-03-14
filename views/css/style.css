@@ -1,0 +1,25 @@
+body, html{
+    height: 100%;
+}
+
+.login-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 100px 200px 150px 200px;
+    padding:50px;
+    background: #ffffff;
+    border-radius: 5px;
+}
+
+.info-card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 100px 200px 150px 200px;
+    padding:50px;
+    background: #ffffff;
+    border-radius: 5px;
+}
+
+.grey-background {
+    padding-top: 100px;
+    background-color: #efefef;
+    height: 100%;
+}
